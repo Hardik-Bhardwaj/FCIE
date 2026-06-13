@@ -6,7 +6,7 @@ A full-stack marketing + prototype platform that demonstrates how an ML-powered 
 
 > Built for edtech and fintech founders running student financing portals in India.
 
-**Live demo:** [https://fcie.replit.app](https://fcie.replit.app)
+**Live demo:** [[https://fcie.replit.app](https://fcie.replit.app)](https://journey-insight--hardikb2501.replit.app/)
 
 ---
 
